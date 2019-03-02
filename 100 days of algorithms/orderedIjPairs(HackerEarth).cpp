@@ -72,3 +72,5 @@ int main() {
    cout << count;
 	return 0;
 }
+
+// The time complexity is O(nlogn) as merge is called log n times.
