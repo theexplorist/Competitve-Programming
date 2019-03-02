@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	//code
+	int t;
+	cin >> t;
+	while(t--){
+	    long n, m;
+	    scanf("%ld", &n);
+	    vector<long> v;
+	    while(n--){
+	        long w;
+	        scanf("%ld", &w);
+	        v.push_back(w);
+	    }
+	    scanf("%ld", &m);
+	}
+	return 0;
+}
