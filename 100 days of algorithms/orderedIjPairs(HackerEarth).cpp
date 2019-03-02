@@ -1,3 +1,4 @@
+//Day 1
 //Given an array A on size N, you need to find the number of ordered pairs (i, j) such that i > j and arr[i] > arr[j].
 
 #include <iostream>
